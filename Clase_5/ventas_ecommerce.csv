@@ -1,0 +1,97 @@
+pedido_id,cliente_id,fecha_pedido,ciudad,canal_adquisicion,tipo_cliente,categoria_producto,cantidad,precio_unitario,descuento_pct,estado_pedido,satisfaccion
+PED0001,CLI001,2026-07-21,Medellín,Redes sociales,Recurrente,Libros,3,95000,0,Entregado,3
+PED0002,CLI002,2026-07-07,Medellín,Email,Recurrente,Hogar,1,210000,5,Cancelado,
+PED0003,CLI003,2026-09-03,Medellín,Redes sociales,Recurrente,Belleza,3,110000,0,Entregado,3
+PED0004,CLI004,2026-08-13,Medellín,Google,Recurrente,Tecnología,3,180000,0,Entregado,5
+PED0005,CLI005,2026-07-19,Itagüí,Redes sociales,Recurrente,Hogar,1,135000,0,Entregado,4
+PED0006,CLI006,2026-08-28,Itagüí,Redes sociales,Recurrente,Libros,1,45000,5,Entregado,4
+PED0007,CLI007,2026-07-16,Medellín,Referidos,Recurrente,Libros,1,28000,10,Entregado,4
+PED0008,CLI008,2026-08-18,Medellín,Redes sociales,Nuevo,Libros,3,45000,20,Entregado,5
+PED0009,CLI009,2026-09-10,Medellín,Referidos,Nuevo,Tecnología,2,250000,20,Entregado,4
+PED0010,CLI010,2026-09-25,Envigado,Redes sociales,Nuevo,Tecnología,4,250000,0,Entregado,4
+PED0011,CLI011,2026-07-16,Itagüí,Google,Nuevo,Deporte,1,95000,5,Entregado,5
+PED0012,CLI012,2026-09-04,Medellín,Referidos,Nuevo,Deporte,2,230000,5,Cancelado,
+PED0013,CLI013,2026-08-13,Medellín,Redes sociales,Nuevo,Libros,2,45000,0,Cancelado,
+PED0014,CLI014,2026-08-17,Bello,Referidos,Recurrente,Hogar,3,210000,5,Entregado,4
+PED0015,CLI015,2026-07-12,Medellín,Redes sociales,Recurrente,Belleza,4,65000,0,Entregado,5
+PED0016,CLI016,2026-08-19,Medellín,Redes sociales,Nuevo,Deporte,3,95000,15,En tránsito,
+PED0017,CLI017,2026-09-23,Itagüí,Redes sociales,Recurrente,Tecnología,2,250000,0,Entregado,4
+PED0018,CLI018,2026-09-09,Envigado,Redes sociales,Nuevo,Hogar,2,210000,10,Entregado,4
+PED0019,CLI019,2026-08-10,Medellín,Email,Recurrente,Tecnología,2,120000,0,Entregado,4
+PED0020,CLI020,2026-08-22,Itagüí,Google,Recurrente,Libros,2,28000,5,Entregado,4
+PED0021,CLI021,2026-09-18,Medellín,Redes sociales,Recurrente,Belleza,1,65000,0,Entregado,3
+PED0022,CLI022,2026-08-01,Envigado,Email,Nuevo,Hogar,1,210000,20,Entregado,4
+PED0023,CLI023,2026-09-13,Medellín,Redes sociales,Recurrente,Tecnología,1,180000,10,Entregado,4
+PED0024,CLI024,2026-09-11,Medellín,Redes sociales,Recurrente,Libros,1,95000,0,Entregado,3
+PED0025,CLI025,2026-07-17,Medellín,Referidos,Recurrente,Hogar,3,320000,0,Entregado,4
+PED0026,CLI026,2026-08-28,Bello,Email,Recurrente,Belleza,4,30000,0,Entregado,3
+PED0027,CLI027,2026-08-13,Medellín,Google,Recurrente,Hogar,4,210000,0,Entregado,5
+PED0028,CLI028,2026-09-01,Envigado,Email,Recurrente,Hogar,4,210000,10,Cancelado,
+PED0029,CLI029,2026-08-04,Envigado,Referidos,Recurrente,Belleza,4,65000,5,Entregado,5
+PED0030,CLI030,2026-08-14,Medellín,Google,Recurrente,Libros,4,28000,5,Entregado,5
+PED0031,CLI016,2026-09-29,Medellín,Redes sociales,Nuevo,Hogar,3,45000,0,Entregado,4
+PED0032,CLI023,2026-07-11,Medellín,Redes sociales,Recurrente,Tecnología,4,420000,15,Entregado,5
+PED0033,CLI030,2026-08-14,Medellín,Google,Recurrente,Hogar,4,45000,0,Entregado,5
+PED0034,CLI013,2026-08-07,Medellín,Redes sociales,Nuevo,Libros,3,45000,20,Entregado,4
+PED0035,CLI009,2026-07-04,Medellín,Referidos,Nuevo,Libros,2,45000,5,Entregado,5
+PED0036,CLI012,2026-09-13,Medellín,Referidos,Nuevo,Deporte,3,55000,0,Entregado,4
+PED0037,CLI007,2026-07-14,Medellín,Referidos,Recurrente,Hogar,4,135000,0,Entregado,4
+PED0038,CLI017,2026-08-27,Itagüí,Redes sociales,Recurrente,Hogar,3,80000,0,Entregado,4
+PED0039,CLI017,2026-07-26,Itagüí,Redes sociales,Recurrente,Tecnología,1,420000,20,Entregado,4
+PED0040,CLI023,2026-08-03,Medellín,Redes sociales,Recurrente,Tecnología,2,250000,0,Entregado,4
+PED0041,CLI003,2026-08-30,Medellín,Redes sociales,Recurrente,Libros,3,95000,5,En tránsito,
+PED0042,CLI010,2026-08-26,Envigado,Redes sociales,Nuevo,Libros,1,28000,10,Entregado,4
+PED0043,CLI002,2026-08-12,Medellín,Email,Recurrente,Deporte,1,230000,15,Entregado,4
+PED0044,CLI022,2026-07-24,Envigado,Email,Nuevo,Tecnología,1,420000,20,Entregado,4
+PED0045,CLI016,2026-07-17,Medellín,Redes sociales,Nuevo,Libros,3,95000,5,Entregado,4
+PED0046,CLI001,2026-07-24,Medellín,Redes sociales,Recurrente,Hogar,1,320000,15,Entregado,4
+PED0047,CLI023,2026-09-01,Medellín,Redes sociales,Recurrente,Deporte,2,95000,20,Entregado,4
+PED0048,CLI030,2026-08-28,Medellín,Google,Recurrente,Tecnología,1,120000,15,Entregado,5
+PED0049,CLI003,2026-09-10,Medellín,Redes sociales,Recurrente,Hogar,3,45000,0,Entregado,3
+PED0050,CLI029,2026-07-13,Envigado,Referidos,Recurrente,Tecnología,3,250000,0,Entregado,5
+PED0051,CLI023,2026-09-09,Medellín,Redes sociales,Recurrente,Hogar,3,210000,5,Entregado,4
+PED0052,CLI007,2026-09-09,Medellín,Referidos,Recurrente,Tecnología,3,250000,10,Entregado,5
+PED0053,CLI029,2026-08-28,Envigado,Referidos,Recurrente,Belleza,3,30000,15,En tránsito,
+PED0054,CLI001,2026-09-15,Medellín,Redes sociales,Recurrente,Hogar,3,210000,5,Entregado,4
+PED0055,CLI012,2026-07-27,Medellín,Referidos,Nuevo,Hogar,3,135000,10,Entregado,4
+PED0056,CLI015,2026-08-14,Medellín,Redes sociales,Recurrente,Tecnología,4,120000,0,Entregado,3
+PED0057,CLI006,2026-08-21,Itagüí,Redes sociales,Recurrente,Tecnología,2,650000,10,Entregado,4
+PED0058,CLI011,2026-07-16,Itagüí,Google,Nuevo,Libros,3,45000,0,Entregado,4
+PED0059,CLI014,2026-07-05,Bello,Referidos,Recurrente,Deporte,2,95000,0,Entregado,4
+PED0060,CLI016,2026-08-15,Medellín,Redes sociales,Nuevo,Hogar,2,80000,5,Entregado,3
+PED0061,CLI027,2026-08-21,Medellín,Google,Recurrente,Deporte,4,230000,20,Entregado,4
+PED0062,CLI006,2026-07-16,Itagüí,Redes sociales,Recurrente,Libros,4,95000,10,Entregado,5
+PED0063,CLI009,2026-09-25,Medellín,Referidos,Nuevo,Libros,4,28000,0,Entregado,4
+PED0064,CLI013,2026-09-18,Medellín,Redes sociales,Nuevo,Hogar,4,320000,0,Entregado,5
+PED0065,CLI005,2026-09-17,Itagüí,Redes sociales,Recurrente,Hogar,4,45000,15,Entregado,5
+PED0066,CLI023,2026-09-28,Medellín,Redes sociales,Recurrente,Belleza,2,175000,0,Entregado,4
+PED0067,CLI006,2026-08-28,Itagüí,Redes sociales,Recurrente,Libros,2,70000,0,Entregado,4
+PED0068,CLI020,2026-09-03,Itagüí,Google,Recurrente,Belleza,3,65000,10,En tránsito,
+PED0069,CLI014,2026-07-24,Bello,Referidos,Recurrente,Belleza,3,110000,5,Cancelado,
+PED0070,CLI010,2026-09-24,Envigado,Redes sociales,Nuevo,Tecnología,1,180000,20,Entregado,4
+PED0071,CLI024,2026-09-28,Medellín,Redes sociales,Recurrente,Belleza,4,175000,20,Entregado,4
+PED0072,CLI004,2026-08-09,Medellín,Google,Recurrente,Hogar,3,320000,0,Entregado,3
+PED0073,CLI022,2026-08-02,Envigado,Email,Nuevo,Tecnología,4,120000,15,Cancelado,
+PED0074,CLI028,2026-08-06,Envigado,Email,Recurrente,Tecnología,2,250000,0,Entregado,4
+PED0075,CLI017,2026-07-20,Itagüí,Redes sociales,Recurrente,Libros,2,28000,0,Entregado,5
+PED0076,CLI007,2026-07-15,Medellín,Referidos,Recurrente,Belleza,3,30000,0,Entregado,3
+PED0077,CLI002,2026-09-13,Medellín,Email,Recurrente,Hogar,3,320000,10,En tránsito,
+PED0078,CLI005,2026-08-09,Itagüí,Redes sociales,Recurrente,Hogar,2,80000,10,Entregado,3
+PED0079,CLI011,2026-07-29,Itagüí,Google,Nuevo,Deporte,1,230000,15,En tránsito,
+PED0080,CLI027,2026-09-12,Medellín,Google,Recurrente,Hogar,1,80000,0,Cancelado,
+PED0081,CLI008,2026-09-18,Medellín,Redes sociales,Nuevo,Deporte,1,230000,0,Entregado,5
+PED0082,CLI015,2026-09-22,Medellín,Redes sociales,Recurrente,Deporte,2,145000,0,Entregado,4
+PED0083,CLI017,2026-08-08,Itagüí,Redes sociales,Recurrente,Deporte,2,230000,20,Entregado,4
+PED0084,CLI017,2026-09-03,Itagüí,Redes sociales,Recurrente,Hogar,4,320000,20,Entregado,5
+PED0085,CLI028,2026-09-10,Envigado,Email,Recurrente,Tecnología,2,180000,0,En tránsito,
+PED0086,CLI009,2026-08-21,Medellín,Referidos,Nuevo,Tecnología,3,420000,10,Entregado,5
+PED0087,CLI023,2026-08-13,Medellín,Redes sociales,Recurrente,Belleza,2,110000,0,Entregado,5
+PED0088,CLI022,2026-08-01,Envigado,Email,Nuevo,Hogar,3,80000,0,Entregado,4
+PED0089,CLI007,2026-08-31,Medellín,Referidos,Recurrente,Tecnología,3,120000,0,Entregado,3
+PED0090,CLI016,2026-08-26,Medellín,Redes sociales,Nuevo,Deporte,4,55000,0,Entregado,5
+PED0091,CLI001,2026-08-12,Medellín,Redes sociales,Recurrente,Tecnología,3,250000,20,Entregado,5
+PED0092,CLI018,2026-09-18,Envigado,Redes sociales,Nuevo,Libros,2,95000,5,En tránsito,
+PED0093,CLI021,2026-09-02,Medellín,Redes sociales,Recurrente,Hogar,1,135000,15,Entregado,4
+PED0094,CLI015,2026-07-22,Medellín,Redes sociales,Recurrente,Tecnología,1,250000,20,Entregado,4
+PED0095,CLI004,2026-08-01,Medellín,Google,Recurrente,Belleza,2,65000,20,En tránsito,
+PED0096,CLI006,2026-07-02,Itagüí,Redes sociales,Recurrente,Deporte,1,145000,20,Entregado,4
