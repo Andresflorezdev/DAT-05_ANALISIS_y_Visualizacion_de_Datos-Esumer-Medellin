@@ -162,7 +162,7 @@ Este repositorio es material de formación. Si adaptas los notebooks a datos rea
 
 ## Autoría y contexto académico
 
-Este repositorio reúne material de apoyo y apuntes de trabajo del curso de Analítica y Visualización de Datos para la Toma de Decisiones de la universidad ESUMER / con apoyo de Estud-IA y La Alcaldia De Medellin. El docente identificado en los notebooks de las clases 8, 9 y 10 es **Johan Steev Muriel Mosquera**.
+Este repositorio reúne material de apoyo y apuntes de trabajo del curso de Analítica y Visualización de Datos para la Toma de Decisiones de la universidad ESUMER / con apoyo de Estud-IA y La Alcaldia De Medellin. El docente identificado en los notebooks de las clases 8, 9 y 10 es **Johan Steev Muriel**.
 
 ## Resultados
 
