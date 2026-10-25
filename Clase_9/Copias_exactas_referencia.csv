@@ -1,0 +1,3 @@
+﻿id_matricula,id_estudiante,periodo,programa,sede,edad,fecha_matricula,fecha_inicio,estado,valor_matricula,descuento_pct,beca
+M0046,E046,2026-1,Marketing,Robledo,54,2026-01-20,2026-01-25,Activa,1400000,30.0,Sí
+M0047,E047,2026-1,Desarrollo Web,Centro,44,2026-01-11,2026-01-25,Cancelada,1200000,0.0,No
